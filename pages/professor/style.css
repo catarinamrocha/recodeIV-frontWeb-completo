@@ -1,0 +1,52 @@
+div.card {
+    width: 100%;
+    margin-top: 20px;
+}
+
+footer {
+    padding: 10px;
+    height: 40px;
+    margin-top: 10px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+#actionsButtons {
+    background-color: transparent;
+    border: none;
+    padding: 1px;
+    border-radius: 3px;   
+}
+
+#button:hover {
+    background-color: transparent;
+    border: none;
+    padding: 3px;
+    border-radius: 3px;
+}
+
+
+
+#tableHeaderActions {
+    margin: 10px;
+    display: inline-flex;
+    justify-content: flex-start;
+}
+
+#tableFooterActions {
+    margin-right: 20px;
+}
+
+#buttonsInside {
+    margin-right: 150px;
+    margin-left: 10px;
+    display: inline-flex;
+    justify-content: flex-end;
+}
+
+#searchBar {
+    margin-left: 188px;
+    width: 600px;
+}
